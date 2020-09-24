@@ -1,8 +1,7 @@
-We analyze US gun murder data collected by the FBI.
+** R Example code
 
-download-data.R - Downloads csv file to data directory
+Some very simple scripts to learn to code in R 
 
-wrangle-data.R - Creates a derived dataset and saves as R object in rdas
-directory
+Tested in RStudio 1.3 
 
-analysis.R - A plot is generated and saved in the figs directory.
+Hope this helps :) 
